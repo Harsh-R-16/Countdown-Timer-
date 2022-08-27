@@ -25,7 +25,7 @@ let firstH2 = document.querySelectorAll("h2")[0];
 let secondH2 = document.querySelectorAll("h2")[1];
 let futureDate1 = new Date(2022, 9, 28, 17, 55, 20);
 let futureTime1 = futureDate1.getTime();
-let futureDate2 = new Date(2022, 7, 17, 13, 55, 00);
+let futureDate2 = new Date(2022, 10, 17, 13, 55, 00);
 let futureTime2 = futureDate2.getTime();
 
 let paras = document.querySelectorAll(".timeLeft p");
